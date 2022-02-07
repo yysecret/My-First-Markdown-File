@@ -1,5 +1,5 @@
 # SoFi-Case-Study
-![Apple](Apple.jpg)
+![Apple](images/Apple.jpg)
 ## Description
 ### Table of Contents
 1. [data](C:\Users\yingf\Desktop\git\SoFi-Case-Study\data)
