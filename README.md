@@ -1,4 +1,4 @@
-# SoFi-Case-Study
+# My First Markdown File
 ![Apple](images/Apple.jpg)
 ## Description
 ### Table of Contents
