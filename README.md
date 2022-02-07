@@ -2,7 +2,7 @@
 ![Apple](images/Apple.jpg)
 ## Description
 ### Table of Contents
-1. [data](C:\Users\yingf\Desktop\git\SoFi-Case-Study\data)
-2. [code](C:\Users\yingf\Desktop\git\SoFi-Case-Study\code)
-3. [images](C:\Users\yingf\Desktop\git\SoFi-Case-Study\images)
-4. [references](C:\Users\yingf\Desktop\git\SoFi-Case-Study\references)
+1. [data](data)
+2. [code](code)
+3. [images](images)
+4. [references](references)
